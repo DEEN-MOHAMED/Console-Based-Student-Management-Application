@@ -1,0 +1,2 @@
+# Console-Based-Student-Management-Application
+  The Console-Based Student Management Application is a Python and MySQL-powered system that provides a user-friendly console interface for managing student records. Users can effortlessly display, filter, search, update, and delete student information, while bonus features include calculating the average percentage of a class and displaying the average marks of a specific student. Streamlining student data management, it ensures a structured record format and efficient file-based storage.

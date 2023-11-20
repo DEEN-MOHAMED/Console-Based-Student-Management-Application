@@ -27,7 +27,7 @@ Welcome to the Console-Based Student Management Application! This application is
    - Calculate and display the average percentage of students in a specified class.
 
 7. **Calculate Average Marks of a Student:**
-   -Calculate and display the average marks of a specific student.
+   - Calculate and display the average marks of a specific student.
 
 ## Technologies Used 💻
 

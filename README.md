@@ -23,6 +23,12 @@ Welcome to the Console-Based Student Management Application! This application is
 5. **Delete a Student:**
    - Remove a student's record from the system.
 
+6. **Get Average Percentage of a Class:**
+   - Calculate and display the average percentage of students in a specified class.
+
+7. **Calculate Average Marks of a Student:**
+   -Calculate and display the average marks of a specific student.
+
 ## Technologies Used 💻
 
 - Python
